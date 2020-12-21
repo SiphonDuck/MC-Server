@@ -1,0 +1,11 @@
+[BETA]dannys_expansion1.16.4-1.0.3.2.jar
+astralsorcery-1.16.4-1.13.5.jar
+GeneticAnimals-0_6_2.jar
+gravestone-1.16.4-1.0.2.jar
+ImmersiveEngineering-1.16.4-4.1.1-128.jar
+ImmersivePetroleum-1.16.3-3.1.0.jar
+industrial-foregoing-1.16.4-3.2.5-74675d6.jar
+rftoolsbase-1.16-2.0.8.jar
+titanium-1.16.4-3.2.2
+u_team_core-1.16.4-3.1.16.190.jar
+xnet-1.16-3.0.10.jar
