@@ -1,4 +1,3 @@
-Mod Version
 Security Craft 1.8.20.2
 [BETA]Danny's Expansion 1.0.4
 AI Improvements 0.3.0
@@ -55,6 +54,7 @@ MCDoom Mod 3.6.1
 McJtyLib 5.0.15 [Core]
 Mekanism 10.0.18.445
 Mekanism Generators 10.0.18.445
+Mekanism Additions 10.0.18.445.jar
 Mekanism Tools 10.0.18.445
 MineColonies 0.13.437-RELEASE-universal
 Miner's Helmet 2.0.0
@@ -76,11 +76,11 @@ Progressive Bosses 2.2.0
 Refined Pipes 0.5
 Resourceful Bees 0.5.5b
 RFTools 2.0.9
+RFTools Builder 3.0.13
 RFTools Control 4.0.6
 RFTools Power 3.0.8
-RFTools Builder 3.0.13
-RFTools Utility 3.0.19
 RFTools Storage 2.0.8
+RFTools Utility 3.0.19
 Ring of Ascension 1.5.6
 Runelic 6.0.2
 Scuba Gear 1.0.1
