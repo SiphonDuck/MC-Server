@@ -2,6 +2,7 @@ Mod Version
 [BETA]Danny's Expansion 1.0.4
 AI Improvements 0.3.0
 Alchemistry -2
+A Lib -3
 Alex's Mobs 1.1.1
 Ambient Sounds 3.1.2
 AppleSkin 1.0.14
@@ -18,6 +19,7 @@ Carry On 1.15.1.7
 CC: Tweaked (ComputerCraft) 1.94.0
 Chem Lib -1 [Core]
 Citadel 1.5.3
+City Blocks 1.3.1
 Clumps 6.0.0.13
 CodeChicken Lib 3.5.0.398 [Core]
 CoFH Core 1.0.4 [Core]
@@ -27,6 +29,7 @@ Create 0.3a
 CreativeCore 2.0.10 [Core]
 Curios API (Forge) 4.0.3.0 [Core]
 Dark Utilities 7.0.3
+Dungeon Crawl 2.2.2
 Dungeons Plus 1.1.10
 Elevator ID (OpenBlocks Elevator) 1.7.8
 Enchantment Descriptions 6.0.2
@@ -41,7 +44,9 @@ Immersive Engineering 4.1.2-129
 Immersive Petroleum 3.1.0-2
 Industrial Foregoing 3.2.6-c3ea663
 Inspirations 1.2.1.24
+Inventory Tweaks 1.0.1
 Iron Chest 11.2.10
+ItemPhysic 1.4.14 [Core?]
 JEI 7.6.0.62
 KleeSlabs 9.2.0
 Mantle 1.6.43 [Core]
@@ -50,8 +55,10 @@ Mekanism 10.0.18.445
 Mekanism Generators 10.0.18.445
 Mekanism Tools 10.0.18.445
 MineColonies 0.13.437-RELEASE-universal
+Miner's Helmet 2.0.0
 Morpheus 4.2.68
 Mouse Tweaks 2.13
+Mutant Beasts 1.1.3
 Nature's Compass 1.8.6
 Neat 1.7-24
 Obfuscate 0.5.0 [Core]
@@ -61,26 +68,34 @@ Pam's HarvestCraft: Food Core 1.0.0
 Pam's HarvestCraft: Extended 1.0.0
 Pam's HarvestCraft: Trees 1.0.0
 Patchouli 48 [Core]
+PneumatiCraft 2.7.2-86
+Progressive Bosses 2.2.0
 Refined Pipes 0.5
 Resourceful Bees 0.5.5b
-RF Tools 2.0.9
+Ring of Ascension 1.5.6
+RFTools 2.0.9
 RFTools Control 4.0.6
 RFTools Power 3.0.8
 RFTools Builder 3.0.13
 RFTools Utility 3.0.19
 RFTools Storage 2.0.8
 Runelic 6.0.2
+Scuba Gear 1.0.1
+SecurityCraft 1.8.20.2
 ShetiPhian Core 3.8.4 [Core]
 Statues 0.1.6.3
 Storage Drawers 8.2.1
+Structure gel API 1.7.2
 Structurize 0.13.96-ALPHA-universal
 Thermal Cultivation 1.0.5
 Thermal Expansion 1.0.5
 Thermal Innovation 1.0.3
 Thermal Locomotion 1.0.3
 Thermal Foundation 1.0.5
+The Undergarden 0.3.8
 Titanium 3.2.3 [Core]
 Torchmaster 2.3.5-alpha
+Towers of the Wild 2.0.1
 Tree Harvester 2.0
 U-team Core 3.1.16.191 [Core]
 Useful Backpacks 1.11.6.86
